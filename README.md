@@ -1,5 +1,4 @@
-### Main CodeCrunch developer:
-Hi! My name is Yaroslav, nice to meet u here!
+Hi! My name is Yaroslav, 14 y.o If you have any comments about my code, be sure to express them all to me in telegram, I will be very glad: s0r04k4
 
 ### GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yarous&show_icons=true&hide=prs,issues,contribs&theme=dark)
